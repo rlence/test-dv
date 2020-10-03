@@ -1,0 +1,10 @@
+{
+    "data": [
+        { "id":1, "name":"Ricardo", "groud":"Netflix", "role":"agent", "permissions":["Create","Update","Delete"] },
+        { "id":2, "name":"Felipe", "groud":"Netflix", "role":"agent", "permissions":["Update","Delete"] },
+        { "id":3, "name":"Perez", "groud":"HBO", "role":"agent", "permissions":["Create","Update","Delete"] },
+        { "id":4, "name":"Diego", "groud":"HBO", "role":"agent", "permissions":["Create","Delete"] },
+        { "id":5, "name":"Javier", "groud":"Amazon", "role":"agent", "permissions":["Create","Update","Delete"] },
+        { "id":6, "name":"Feliberto", "groud":"Amazon", "role":"agent", "permissions":["Create","Update"] }
+    ]
+}

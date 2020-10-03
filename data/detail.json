@@ -1,0 +1,208 @@
+{
+    "data":[
+        {"id":1, "name":"Ricardo", "lastName":"Lence", "age":"27", "date":"05/11/1992", "data":[
+            {
+                "gropuName":"Netflix",
+                "code":"24897",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            },
+            {
+                "gropuName":"HBO",
+                "code":"56935",
+                "rol":"admin",
+                "permisions":[
+                  "Create"  
+                ]
+            },
+            {
+                "gropuName":"AMZON",
+                "code":"54987",
+                "rol":"agent",
+                "permisions":[
+                   "Delete"  
+                ]
+            },
+            {
+                "gropuName":"DISNEY",
+                "code":"12904",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            }
+        ]},
+        {"id":2, "name":"Felipe", "lastName":"Martin", "age":"34", "date":"20/05/1988", "data":[
+            {
+                "gropuName":"Netflix",
+                "code":"24897",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            },
+            {
+                "gropuName":"HBO",
+                "code":"56935",
+                "rol":"admin",
+                "permisions":[
+                  "Create"  
+                ]
+            },
+            {
+                "gropuName":"AMZON",
+                "code":"54987",
+                "rol":"agent",
+                "permisions":[
+                   "Delete"  
+                ]
+            },
+            {
+                "gropuName":"DISNEY",
+                "code":"12904",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            }
+        ]},
+        {"id":3, "name":"Perez", "lastName":"Gonzales", "age":"25", "date":"10/12/1995", "data":[
+            {
+                "gropuName":"Netflix",
+                "code":"24897",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            },
+            {
+                "gropuName":"HBO",
+                "code":"56935",
+                "rol":"admin",
+                "permisions":[
+                  "Create"  
+                ]
+            },
+            {
+                "gropuName":"AMZON",
+                "code":"54987",
+                "rol":"agent",
+                "permisions":[
+                   "Delete"  
+                ]
+            },
+            {
+                "gropuName":"DISNEY",
+                "code":"12904",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            }
+        ]},
+        {"id":4, "name":"Diego", "lastName":"Vazquez", "age":"45", "date":"15/08/1971", "data":[
+            {
+                "gropuName":"Netflix",
+                "code":"24897",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            },
+            {
+                "gropuName":"HBO",
+                "code":"56935",
+                "rol":"admin",
+                "permisions":[
+                  "Create"  
+                ]
+            },
+            {
+                "gropuName":"AMZON",
+                "code":"54987",
+                "rol":"agent",
+                "permisions":[
+                   "Delete"  
+                ]
+            },
+            {
+                "gropuName":"DISNEY",
+                "code":"12904",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            }
+        ]},
+        {"id":5, "name":"Javier", "lastName":"Perez", "age":"27", "date":"05/11/1992", "data":[
+            {
+                "gropuName":"Netflix",
+                "code":"24897",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            },
+            {
+                "gropuName":"HBO",
+                "code":"56935",
+                "rol":"admin",
+                "permisions":[
+                  "Create"  
+                ]
+            },
+            {
+                "gropuName":"AMZON",
+                "code":"54987",
+                "rol":"agent",
+                "permisions":[
+                   "Delete"  
+                ]
+            },
+            {
+                "gropuName":"DISNEY",
+                "code":"12904",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            }
+        ]},
+        {"id":6, "name":"Feliberto", "lastName":"Marquez", "age":"27", "date":"05/11/1992", "data":[
+            {
+                "gropuName":"Netflix",
+                "code":"24897",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            },
+            {
+                "gropuName":"HBO",
+                "code":"56935",
+                "rol":"admin",
+                "permisions":[
+                  "Create"  
+                ]
+            },
+            {
+                "gropuName":"AMZON",
+                "code":"54987",
+                "rol":"agent",
+                "permisions":[
+                   "Delete"  
+                ]
+            },
+            {
+                "gropuName":"DISNEY",
+                "code":"12904",
+                "rol":"agent",
+                "permisions":[
+                  "Create", "Update", "Delete"  
+                ]
+            }
+        ]}
+    ]
+}
