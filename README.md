@@ -21,6 +21,7 @@ Se evaluara:
 
 `$ git clone del repositorio`
 `$ npm install o npm i`
+`$ npm start`
 
 esto lanzara un servidor en local en node que esta escuchando en localhost:3000
 este servidor devolvera los datos que son necesarion.
