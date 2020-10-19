@@ -1,4 +1,3 @@
-
 ![](https://elcandelerotecnologico.files.wordpress.com/2020/06/varios_logo_digital-virgo.jpg?w=410)
 
 Test Front-END
@@ -24,12 +23,23 @@ Se evaluara:
 `$ npm start`
 
 esto lanzara un servidor en local en node que esta escuchando en localhost:3000
-este servidor devolvera los datos que son necesarion.
-
+este servidor devolvera los datos que son necesarion. 
 
 ####Pagina inicial
 Constara de una tabla que va a enlistar los datos servidos por el back-end,
 se podra hacer click en cualquier parte de la fila de la tabla que ejecutara un redirect a la segunda pagina donde mostrar informacion mas detallada.
+
+####Modal
+
+En la pagina principal, se debara agregar un boton que esto desplegara un modal, con uan serie de inputs, para rellenar información y una lista de 3 elementos con un checkbox para hacer una peticion POST a back-end para generar un nuevo elemento.
+
+la estrucutra de envio de datos es:
+data = {
+"name":"string",
+"group":"string",
+"rol":"string,
+"permissions": [   ]
+}
 
 
 ####Pagina Detalle
@@ -37,4 +47,3 @@ Constara de dos elementos,  una franja en el lateral izquierdo donde se imprimer
 luego en la parte central se imprimira una tabla con la información restante.
 
 **nota:** las imagenes de cada pnatalla las encontraras en la carpeta de assets del proyecto
-
